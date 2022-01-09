@@ -6,11 +6,11 @@
 
 ---
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=skim0119&count_private=true&show_icons=true&theme=radical)](https://github.com/skim0119/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=skim0119&count_private=true&show_icons=true&theme=dark)](https://github.com/skim0119/github-readme-stats)
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skim0119&count_private=true&theme=radical&layout=compact)](https://github.com/skim0119/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skim0119&count_private=true&theme=dark&layout=compact)](https://github.com/skim0119/github-readme-stats)
 
 ---
 
