@@ -1,5 +1,11 @@
 ### Hi there, I'm Seung Hyun Kim 👋
 
+<!--
+Wakatime: Supported styles are default, plastic, flat, flat-square, for-the-badge, and social.
+-->
+
+[![wakatime](https://wakatime.com/badge/user/7510e6c6-66ea-48a3-961b-e56cf50d5871.svg?style=flat)](https://wakatime.com/@7510e6c6-66ea-48a3-961b-e56cf50d5871)
+
 ### I'm a devloper and researcher.
 - 🔭 I’m currently working on [`elastica++`](https://www.cosseratrods.org/)
 - 🌱 I’m currently learning computational mechanics, robotics, inverse design, RL/ML, and reservoir computing.
@@ -7,9 +13,6 @@
 ---
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=skim0119&count_private=true&show_icons=true&theme=dark)](https://github.com/skim0119/github-readme-stats)
-
----
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skim0119&count_private=true&theme=dark&layout=compact)](https://github.com/skim0119/github-readme-stats)
 
 ---
