@@ -4,7 +4,7 @@
  [<img align="center" alt="skim0119 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
  
  <p> I'm a developer and researcher in physics simulation and AI.</p>
- <p> My main skills are Python, C/C++, C# and Java.</p>
+ <p> My main development skills are Python, C/C++, C# and Java.</p>
  <p> I'm trying to experience various projects to be a good developer.😄 </p>
 
 #
