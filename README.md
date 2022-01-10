@@ -27,7 +27,7 @@
 <p>
  <img src="https://img.shields.io/badge/Rhino-801010?style=flat&logo=rhinoceros&logoColor=white"/>
  <img src="https://img.shields.io/badge/Autodesk-0696D7?style=flat&logo=autodesk&logoColor=white"/>
- <img src="https://img.shields.io/badge/Solidworks-005386?style=flat&logo=dassaultsystemes&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Solidworks/Abaqus-005386?style=flat&logo=dassaultsystemes&logoColor=white"/>
  <img src="https://img.shields.io/badge/Ansys-FFB71B?style=flat&logo=ansys&logoColor=black"/>
 </p>
 <p>
