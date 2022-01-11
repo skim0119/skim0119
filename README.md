@@ -10,6 +10,7 @@
 #
 
  <h3>🔥 Tech Stack 🔥</h3>
+ <h4> Language </h4>
 <p>
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
  <img src="https://img.shields.io/badge/C/C++-00599C?style=flat&logo=cplusplus&logoColor=#00599C"/>
@@ -17,6 +18,7 @@
  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
  <img src="https://img.shields.io/badge/Mathematica-DD1100?style=flat&logo=wolframmathematica&logoColor=white"/>
 </p>
+ <h4> Packages </h4>
 <p>
  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
@@ -24,18 +26,23 @@
  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/>
 </p>
+ <h4> CAD/Simulation </h4>
 <p>
  <img src="https://img.shields.io/badge/Rhino-801010?style=flat&logo=rhinoceros&logoColor=white"/>
  <img src="https://img.shields.io/badge/Autodesk-0696D7?style=flat&logo=autodesk&logoColor=white"/>
  <img src="https://img.shields.io/badge/Solidworks/Abaqus-005386?style=flat&logo=dassaultsystemes&logoColor=white"/>
  <img src="https://img.shields.io/badge/Ansys-FFB71B?style=flat&logo=ansys&logoColor=black"/>
 </p>
+<!--
+ <h4> Tools </h4>
 <p>
  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white"/>
  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white"/>
  <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=flat&logo=adobeaftereffects&logoColor=white"/>
  <img src="https://img.shields.io/badge/Audition-9999FF?style=flat&logo=adobeaudition&logoColor=white"/>
 </p>
+-->
+ <h4> Platform </h4>
 <p>
  <img src="https://img.shields.io/badge/CLion-000000?style=flat&logo=CLion&logoColor=white"/>
  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
