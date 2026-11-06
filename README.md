@@ -61,6 +61,7 @@
  </p>
  <h4>AI &amp; Automation</h4>
  <p>
+  <img alt="MCP" src="https://img.shields.io/badge/MCP-191970?style=flat" />
   <img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" />
   <img alt="vLLM" src="https://img.shields.io/badge/vLLM-6B46C1?style=flat" />
  </p>
