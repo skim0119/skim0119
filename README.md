@@ -16,6 +16,8 @@
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" />
   <img alt="Rust" src="https://img.shields.io/badge/Rust-DEA584?style=flat&logo=rust&logoColor=black" />
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat" />
+  <img alt="Mathematica" src="https://img.shields.io/badge/Mathematica-DD1100?style=flat&logo=wolframmathematica&logoColor=white" />
   <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-0076A8?style=flat" />
  </p>
  <h4>Scientific Computing &amp; Robotics</h4>
@@ -36,11 +38,19 @@
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
  </p>
+ <h4>CAD &amp; Simulation</h4>
+ <p>
+  <img alt="Rhino" src="https://img.shields.io/badge/Rhino-801010?style=flat&logo=rhinoceros&logoColor=white" />
+  <img alt="Autodesk Inventor" src="https://img.shields.io/badge/Autodesk%20Inventor-0696D7?style=flat&logo=autodesk&logoColor=white" />
+  <img alt="Autodesk Fusion" src="https://img.shields.io/badge/Autodesk%20Fusion-0696D7?style=flat&logo=autodesk&logoColor=white" />
+  <img alt="SolidWorks" src="https://img.shields.io/badge/SolidWorks-005386?style=flat&logo=dassaultsystemes&logoColor=white" />
+  <img alt="Abaqus" src="https://img.shields.io/badge/Abaqus-005386?style=flat&logo=dassaultsystemes&logoColor=white" />
+  <img alt="Ansys" src="https://img.shields.io/badge/Ansys-FFB71B?style=flat&logo=ansys&logoColor=black" />
+ </p>
  <h4>Visualization</h4>
  <p>
   <img alt="Blender" src="https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white" />
   <img alt="ParaView" src="https://img.shields.io/badge/ParaView-3B78B4?style=flat" />
-  <img alt="Rhino" src="https://img.shields.io/badge/Rhino-801010?style=flat&logo=rhinoceros&logoColor=white" />
   <img alt="three.js" src="https://img.shields.io/badge/three.js-000000?style=flat&logo=threedotjs&logoColor=white" />
  </p>
 
