@@ -22,13 +22,13 @@
  </p>
  <h4>Scientific Computing &amp; Robotics</h4>
  <p>
-  <img alt="Omniverse" src="https://img.shields.io/badge/NVIDIA%20Omniverse-76B900?style=flat&logo=nvidia&logoColor=white" />
-  <img alt="Isaac Lab" src="https://img.shields.io/badge/Isaac%20Lab-76B900?style=flat&logo=nvidia&logoColor=white" />
-  <img alt="Gymnasium" src="https://img.shields.io/badge/Gymnasium-008080?style=flat" />
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
   <img alt="JAX" src="https://img.shields.io/badge/JAX-191970?style=flat" />
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img alt="Isaac Lab" src="https://img.shields.io/badge/Isaac%20Lab-76B900?style=flat&logo=nvidia&logoColor=white" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
   <img alt="ROS 2" src="https://img.shields.io/badge/ROS%202-22314E?style=flat&logo=ros&logoColor=white" />
+  <img alt="Omniverse" src="https://img.shields.io/badge/NVIDIA%20Omniverse-76B900?style=flat&logo=nvidia&logoColor=white" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img alt="Gymnasium" src="https://img.shields.io/badge/Gymnasium-008080?style=flat" />
  </p>
  <h4>High-Performance Computing &amp; Tools</h4>
  <p>
