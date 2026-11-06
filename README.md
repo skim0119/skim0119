@@ -1,94 +1,92 @@
 <div align="center">
- <h2> Hi 👋, I'm Seung Hyun Kim </h2>
- 
- [<img align="center" alt="skim0119 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
- 
- <p> I'm a developer and researcher in physics simulation and AI.</p>
- <p> My main development skills are Python, C/C++, C# and Java.</p>
- <p> I'm trying to experience various projects to be a good developer.😄 </p>
+ <h2>Hi 👋, I'm Seung Hyun Kim</h2>
 
-#
+ [![Website](https://img.shields.io/badge/Website-191970?style=flat&logo=googlechrome&logoColor=white)](https://coffeewithrobots.studio/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)][linkedin] [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=PxqVoEcAAAAJ)
+
+ <p>I'm an engineer and researcher interested in soft robotics, computational mechanics, and biological computing. My PhD research spans physics-based simulation, robot control, and computing with living neural networks.</p>
+ <p>My interests extend beyond those areas to growing wetware, including Oscillomorph and MorphoHDL, as well as artificial life, emergence, embodied AI, and non-equilibrium physics.</p>
+
+ ---
 
  <h3>🔥 Tech Stack 🔥</h3>
- <h4> Language </h4>
-<p>
- <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
- <img src="https://img.shields.io/badge/C/C++-00599C?style=flat&logo=cplusplus&logoColor=#00599C"/>
- <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=#239120"/>
- <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
- <img src="https://img.shields.io/badge/Mathematica-DD1100?style=flat&logo=wolframmathematica&logoColor=white"/>
-</p>
- <h4> Packages </h4>
-<p>
- <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
- <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
- <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white"/>
- <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
- <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/>
-</p>
- <h4> CAD/Simulation </h4>
-<p>
- <img src="https://img.shields.io/badge/Rhino-801010?style=flat&logo=rhinoceros&logoColor=white"/>
- <img src="https://img.shields.io/badge/Autodesk-0696D7?style=flat&logo=autodesk&logoColor=white"/>
- <img src="https://img.shields.io/badge/Solidworks/Abaqus-005386?style=flat&logo=dassaultsystemes&logoColor=white"/>
- <img src="https://img.shields.io/badge/Ansys-FFB71B?style=flat&logo=ansys&logoColor=black"/>
-</p>
-<!--
- <h4> Tools </h4>
-<p>
- <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white"/>
- <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white"/>
- <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=flat&logo=adobeaftereffects&logoColor=white"/>
- <img src="https://img.shields.io/badge/Audition-9999FF?style=flat&logo=adobeaudition&logoColor=white"/>
-</p>
--->
- <h4> Platform </h4>
-<p>
- <img src="https://img.shields.io/badge/CLion-000000?style=flat&logo=CLion&logoColor=white"/>
- <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
- <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white"/>
- <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
- <img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white"/>
-</p>
-<p>
- <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>
- <img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/>
-</p>
- 
----
- 
-<!--
-Wakatime: Supported styles are default, plastic, flat, flat-square, for-the-badge, and social.
--->
-<p><a href="https://wakatime.com/@7510e6c6-66ea-48a3-961b-e56cf50d5871"><img src="https://wakatime.com/badge/user/7510e6c6-66ea-48a3-961b-e56cf50d5871.svg" alt="Total time coded since Jan 9 2022" /></a></p>
+ <h4>Languages</h4>
+ <p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" />
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-DEA584?style=flat&logo=rust&logoColor=black" />
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat" />
+  <img alt="Mathematica" src="https://img.shields.io/badge/Mathematica-DD1100?style=flat&logo=wolframmathematica&logoColor=white" />
+  <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-0076A8?style=flat" />
+ </p>
+ <h4>Scientific Computing &amp; Robotics</h4>
+ <p>
+  <img alt="JAX" src="https://img.shields.io/badge/JAX-191970?style=flat" />
+  <img alt="Isaac Lab" src="https://img.shields.io/badge/Isaac%20Lab-76B900?style=flat&logo=nvidia&logoColor=white" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img alt="ROS 2" src="https://img.shields.io/badge/ROS%202-22314E?style=flat&logo=ros&logoColor=white" />
+  <img alt="Omniverse" src="https://img.shields.io/badge/NVIDIA%20Omniverse-76B900?style=flat&logo=nvidia&logoColor=white" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img alt="Gymnasium" src="https://img.shields.io/badge/Gymnasium-008080?style=flat" />
+ </p>
+ <h4>High-Performance Computing &amp; Tools</h4>
+ <p>
+  <img alt="MPI" src="https://img.shields.io/badge/MPI-00599C?style=flat" />
+  <img alt="Parsl" src="https://img.shields.io/badge/Parsl-4051B5?style=flat" />
+  <img alt="Ray" src="https://img.shields.io/badge/Ray-028CF0?style=flat&logo=ray&logoColor=white" />
+  <img alt="ZeroMQ" src="https://img.shields.io/badge/ZeroMQ-DF0000?style=flat&logo=zeromq&logoColor=white" />
+  <img alt="CUDA" src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white" />
+  <img alt="Slurm" src="https://img.shields.io/badge/Slurm-0071C5?style=flat" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+ </p>
+ <h4>CAD &amp; Simulation</h4>
+ <p>
+  <img alt="Rhino" src="https://img.shields.io/badge/Rhino-801010?style=flat&logo=rhinoceros&logoColor=white" />
+  <img alt="Autodesk Inventor" src="https://img.shields.io/badge/Autodesk%20Inventor-0696D7?style=flat&logo=autodesk&logoColor=white" />
+  <img alt="Autodesk Fusion" src="https://img.shields.io/badge/Autodesk%20Fusion-0696D7?style=flat&logo=autodesk&logoColor=white" />
+  <img alt="SolidWorks" src="https://img.shields.io/badge/SolidWorks-005386?style=flat&logo=dassaultsystemes&logoColor=white" />
+  <img alt="Abaqus" src="https://img.shields.io/badge/Abaqus-005386?style=flat&logo=dassaultsystemes&logoColor=white" />
+  <img alt="Ansys" src="https://img.shields.io/badge/Ansys-FFB71B?style=flat&logo=ansys&logoColor=black" />
+ </p>
+ <h4>Visualization</h4>
+ <p>
+  <img alt="Blender" src="https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white" />
+  <img alt="Rhino" src="https://img.shields.io/badge/Rhino-801010?style=flat&logo=rhinoceros&logoColor=white" />
+  <img alt="VR" src="https://img.shields.io/badge/VR-191970?style=flat" />
+  <img alt="Open3D" src="https://img.shields.io/badge/Open3D-008080?style=flat" />
+  <img alt="ParaView" src="https://img.shields.io/badge/ParaView-3B78B4?style=flat" />
+  <img alt="three.js" src="https://img.shields.io/badge/three.js-000000?style=flat&logo=threedotjs&logoColor=white" />
+ </p>
+ <h4>AI &amp; Automation</h4>
+ <p>
+  <img alt="MCP" src="https://img.shields.io/badge/MCP-191970?style=flat" />
+  <img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" />
+  <img alt="vLLM" src="https://img.shields.io/badge/vLLM-6B46C1?style=flat" />
+ </p>
 
+ ---
+
+ <h3>Explore the Code</h3>
 </div>
- 
-- 🔭 I’m currently focusing on [`elastica++`](https://www.cosseratrods.org/) project.
-- 🌱 I’m currently learning computational mechanics, soft-robotics, inverse design, RL/ML, and reservoir computing.
-- ⚡ Fun fact about me: Everyone pronounce my name differently,
 
----
+- 🌀 [**PyElastica**](https://github.com/GazzolaLab/PyElastica) — A Python framework for simulating soft, flexible structures. I was part of its architecture, packaging, releases, and community development.
+- 🦾 [**gym-softrobot**](https://github.com/skim0119/gym-softrobot) — Gymnasium environments I built for soft-robot simulation and control using PyElastica. Start here for my Python work on simulation interfaces and robotics workflows.
+- 🧠 [**MiV-OS**](https://github.com/GazzolaLab/MiV-OS) — A collaborative Python framework for electrophysiology analysis. I developed reusable pipelines for neural recordings and high-throughput computing.
+- ⚙️ [**Elastica++**](https://github.com/GazzolaLab/elasticapp) — A collaborative C++ framework for simulating flexible filaments. I contributed to performance and scalability work for large assemblies.
+
+I care about making research software usable across projects and teams, connecting numerical models to experiments, and understanding performance as systems scale.
 
 <div align="center">
- 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=skim0119&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skim0119&count_private=true&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- 
-<!-- [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=skim0119)](https://github.com/anuraghazra/github-readme-stats) -->
+
+ ---
+
+ ![GitHub stats](./profile/stats.svg)
+ ![Top languages](./profile/top-langs.svg)
+
+ <p><a href="https://wakatime.com/@7510e6c6-66ea-48a3-961b-e56cf50d5871"><img src="https://wakatime.com/badge/user/7510e6c6-66ea-48a3-961b-e56cf50d5871.svg" alt="Total time coded since Jan 9 2022" /></a></p>
 
 </div>
 
-
-[linkedin]: https://www.linkedin.com/in/seung-hyun-kim-6118a3157
-
-<!--
-**skim0119/skim0119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-
-
--->
+[linkedin]: https://www.linkedin.com/in/seung-hyun-kim-6118a3157/
