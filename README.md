@@ -59,7 +59,7 @@
  <h3>Explore the Code</h3>
 </div>
 
-- 🌀 [**PyElastica**](https://github.com/GazzolaLab/PyElastica) — A Python framework for simulating soft, flexible structures. I have contributed to its architecture, packaging, releases, and community development.
+- 🌀 [**PyElastica**](https://github.com/GazzolaLab/PyElastica) — A Python framework for simulating soft, flexible structures. I was part of its architecture, packaging, releases, and community development.
 - 🦾 [**gym-softrobot**](https://github.com/skim0119/gym-softrobot) — Gymnasium environments I built for soft-robot simulation and control using PyElastica. Start here for my Python work on simulation interfaces and robotics workflows.
 - 🧠 [**MiV-OS**](https://github.com/GazzolaLab/MiV-OS) — A collaborative Python framework for electrophysiology analysis. I developed reusable pipelines for neural recordings and high-throughput computing.
 - ⚙️ [**Elastica++**](https://github.com/GazzolaLab/elasticapp) — A collaborative C++ framework for simulating flexible filaments. I contributed to performance and scalability work for large assemblies.
