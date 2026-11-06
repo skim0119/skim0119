@@ -33,6 +33,9 @@
  <h4>High-Performance Computing &amp; Tools</h4>
  <p>
   <img alt="MPI" src="https://img.shields.io/badge/MPI-00599C?style=flat" />
+  <img alt="Parsl" src="https://img.shields.io/badge/Parsl-4051B5?style=flat" />
+  <img alt="Ray" src="https://img.shields.io/badge/Ray-028CF0?style=flat&logo=ray&logoColor=white" />
+  <img alt="ZeroMQ" src="https://img.shields.io/badge/ZeroMQ-DF0000?style=flat&logo=zeromq&logoColor=white" />
   <img alt="CUDA" src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white" />
   <img alt="Slurm" src="https://img.shields.io/badge/Slurm-0071C5?style=flat" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
@@ -50,8 +53,16 @@
  <h4>Visualization</h4>
  <p>
   <img alt="Blender" src="https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white" />
+  <img alt="Rhino" src="https://img.shields.io/badge/Rhino-801010?style=flat&logo=rhinoceros&logoColor=white" />
+  <img alt="VR" src="https://img.shields.io/badge/VR-191970?style=flat" />
+  <img alt="Open3D" src="https://img.shields.io/badge/Open3D-008080?style=flat" />
   <img alt="ParaView" src="https://img.shields.io/badge/ParaView-3B78B4?style=flat" />
   <img alt="three.js" src="https://img.shields.io/badge/three.js-000000?style=flat&logo=threedotjs&logoColor=white" />
+ </p>
+ <h4>AI &amp; Automation</h4>
+ <p>
+  <img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" />
+  <img alt="vLLM" src="https://img.shields.io/badge/vLLM-6B46C1?style=flat" />
  </p>
 
  ---
